@@ -24,7 +24,7 @@ The Campus Event Financial Planning program is used to calculate the total expen
     H --> I[/Display all financial results/]
     I --> J([Stop])
   ```
-  # Sample input
+  # Sample Input
   Enter venue cost: 10000
 Enter equipment cost: 5000
 Enter catering cost: 20000
